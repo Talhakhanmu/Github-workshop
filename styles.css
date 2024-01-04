@@ -3,10 +3,12 @@ body {
 }
 
 main {
-  display: flex;
-  justify-content: center;
   align-items: center;
   width: 960px;
   background-color: white;
-  padding: 5px;
+  flex-direction: column;
+}
+h1,
+p {
+  padding: 20px;
 }
