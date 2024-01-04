@@ -1,0 +1,12 @@
+body {
+  background-color: lightgreen;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 960px;
+  background-color: white;
+  padding: 5px;
+}
